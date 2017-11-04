@@ -1,2 +1,4 @@
 "# ClassTheaterProject" 
 "# ClassTheaterProject" 
+
+Project details ---
