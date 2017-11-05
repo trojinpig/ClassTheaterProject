@@ -1,5 +1,6 @@
 #include <iostream>
-
+//For reading from and writing to files
+#include <fstream>
 using namespace std;
 /*
  * TODO- Functions!
@@ -10,7 +11,7 @@ int main() {
     const SEATS = 30;
     int seatIndex [ROWS][SEATS];
         /*
-         * TODO- a switch statement to call the functions depending on user input.
+         * TODO- a switch statement to call the functions depending on user input
          */
     return 0;
 }
