@@ -6,7 +6,7 @@ using namespace std;
  */
 int main() {
         /*
-         * TODO- preferably a switch statement with access to each of the functions that are created to fit the different demands of this project
+         * TODO- a switch statement to call the functions depending on user input
          */
     return 0;
 }
