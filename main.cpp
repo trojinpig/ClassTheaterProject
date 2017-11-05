@@ -27,7 +27,7 @@ int main() {
     const ROWS = 15;
     const SEATS = 30;
     int seatIndex [ROWS][SEATS];
-    int usrInput; //TODO write code to recieve user input
+    int usrInput; //TODO write code to recieve user input.
     switch (usrInput) {
         case 0:
             break;
